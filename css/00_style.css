@@ -1,21 +1,11 @@
-.carre{
-    width: 1000px;
-    height: 1000px;
-    background-color:white;
+body
+{
+    background-color: black;
+}
+.mere{
+    width: 1200px;
+    height: 600px;
+    background-color:blue;
     background-position: center;
     display: flex;
-    {
-    }
-    .petitcarre1{
-    width: 200px;
-    height: 200px;
-    background-color: blueviolet;
-    display: flex;
-    {
-    }
-    .petitcarre2{
-    width: 200px;
-    height: 200px;
-    background-color: blueviolet;
-    display: flex;
-    {
+}
