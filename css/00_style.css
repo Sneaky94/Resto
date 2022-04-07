@@ -1,11 +1,13 @@
 body
 {
-    background-color: black;
+    background:url(../image/bg2.png);
+    display: flex;
+    justify-content: center;
 }
 .mere{
     width: 1200px;
     height: 600px;
-    background-color:blue;
+    background-color:gray;
     background-position: center;
     display: flex;
 }
