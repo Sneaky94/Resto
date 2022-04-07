@@ -7,7 +7,7 @@ body
 .mere{
     width: 1200px;
     height: 600px;
-    background-color:gray;
+    background-color: #f8f4f4b2;
     background-position: center;
     display: flex;
 }
